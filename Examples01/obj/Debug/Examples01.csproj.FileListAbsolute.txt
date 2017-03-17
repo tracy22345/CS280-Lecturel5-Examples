@@ -1,1 +1,10 @@
 D:\CShap\CS280-Lecturel5-Examples\Examples01\bin\Debug\Examples01.exe.config
+D:\CShap\CS280-Lecturel5-Examples\Examples01\obj\Debug\Examples01.csprojResolveAssemblyReference.cache
+D:\CShap\CS280-Lecturel5-Examples\Examples01\bin\Debug\Examples01.exe
+D:\CShap\CS280-Lecturel5-Examples\Examples01\bin\Debug\Examples01.pdb
+D:\CShap\CS280-Lecturel5-Examples\Examples01\bin\Debug\storeLibrary.dll
+D:\CShap\CS280-Lecturel5-Examples\Examples01\bin\Debug\StoreLibrary2.dll
+D:\CShap\CS280-Lecturel5-Examples\Examples01\bin\Debug\StoreLibrary2.pdb
+D:\CShap\CS280-Lecturel5-Examples\Examples01\bin\Debug\storeLibrary.pdb
+D:\CShap\CS280-Lecturel5-Examples\Examples01\obj\Debug\Examples01.exe
+D:\CShap\CS280-Lecturel5-Examples\Examples01\obj\Debug\Examples01.pdb

@@ -19,18 +19,7 @@ namespace Example01
             {
                 int price = 0;
                 price = int.Parse(Console.ReadLine());
-                if (price > 200)
-                {
-                    product.Price = 200;
-                }
-                else if (price < 39)
-                {
-                    product.Price = 39;
-                }
-                else
-                {
-                    product.Price = price;
-                }
+                product.Price = price;
                 Console.WriteLine("產品:{0}的價格是{1}", product.Name, product.Price);
             }
             catch
@@ -38,6 +27,12 @@ namespace Example01
                 Console.WriteLine("價格輸入錯誤");
                 return;
             }
+
+            Product product2 = new Product();
+            product2.Name = "B";
+            product2.Discount = product.Discount;
+            Console.Write("Product 的 name:{0}", product.Name);
+            Console.Write("Product2 的 name:{0}", product2.Name);
         }
     }
 }

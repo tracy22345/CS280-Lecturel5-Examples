@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{417382AB-F64F-4739-80AD-26606DEFD3BC}</ProjectGuid>
+    <ProjectGuid>{2EC4EB9D-5FD4-466E-8A5F-EA50696B0D64}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>storeLibrary</RootNamespace>
-    <AssemblyName>storeLibrary</AssemblyName>
+    <RootNamespace>StoreLibrary2</RootNamespace>
+    <AssemblyName>StoreLibrary2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
