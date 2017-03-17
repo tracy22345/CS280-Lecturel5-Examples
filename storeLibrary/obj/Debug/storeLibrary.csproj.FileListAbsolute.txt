@@ -1,0 +1,5 @@
+D:\CShap\CS280-Lecturel5-Examples\storeLibrary\bin\Debug\storeLibrary.dll
+D:\CShap\CS280-Lecturel5-Examples\storeLibrary\bin\Debug\storeLibrary.pdb
+D:\CShap\CS280-Lecturel5-Examples\storeLibrary\obj\Debug\storeLibrary.csprojResolveAssemblyReference.cache
+D:\CShap\CS280-Lecturel5-Examples\storeLibrary\obj\Debug\storeLibrary.dll
+D:\CShap\CS280-Lecturel5-Examples\storeLibrary\obj\Debug\storeLibrary.pdb
