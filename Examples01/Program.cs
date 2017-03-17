@@ -15,6 +15,7 @@ namespace Example01
             Console.Write("請輸入產品名稱:");
             product.Name = Console.ReadLine();
             Console.Write("請輸入{0}的價錢:", product.Name);
+            Console.WriteLine("共有{0}個Product", Product.TotalProducts);
             try
             {
                 int price = 0;
@@ -27,12 +28,10 @@ namespace Example01
                 Console.WriteLine("價格輸入錯誤");
                 return;
             }
-
-            Product product2 = new Product();
-            product2.Name = "B";
-            product2.Discount = product.Discount;
-            Console.Write("Product 的 name:{0}", product.Name);
-            Console.Write("Product2 的 name:{0}", product2.Name);
+            Console.WriteLine(product);
+            Product product2 = product.Clone();
+            product2.Name = "BB";
+            Console.WriteLine(product2);
         }
     }
 }
